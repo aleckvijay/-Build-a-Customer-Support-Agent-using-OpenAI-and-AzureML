@@ -1,0 +1,3 @@
+CODES/vector_store/*.index
+CODES/vector_store/*.faiss
+CODES/vector_store/*.pkl
